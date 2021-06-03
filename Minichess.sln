@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniChess", "Minichess\MiniChess.csproj", "{0FD5CCC7-B35F-4E2F-8045-8E5C446B8FBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniChessTest", "MinichessTest\MiniChessTest.csproj", "{3058B431-638A-4F30-884E-5E838CE281AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FD5CCC7-B35F-4E2F-8045-8E5C446B8FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD5CCC7-B35F-4E2F-8045-8E5C446B8FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD5CCC7-B35F-4E2F-8045-8E5C446B8FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD5CCC7-B35F-4E2F-8045-8E5C446B8FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3058B431-638A-4F30-884E-5E838CE281AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3058B431-638A-4F30-884E-5E838CE281AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3058B431-638A-4F30-884E-5E838CE281AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3058B431-638A-4F30-884E-5E838CE281AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3521E49E-C982-4F29-A58A-68D7ED46B3BE}
+	EndGlobalSection
+EndGlobal
